@@ -55,7 +55,7 @@ Figure 1: News List&emsp; &nbsp; &nbsp; &nbsp; &emsp; &nbsp; &nbsp; &nbsp; Figur
 | Readability | The code should be easy to read, making it easier for other developers to understand their meaning and functionality when reading the code. |
 | Format | The code should have a canonical format, ie no extra blank lines, no unused variables or methods, no uncommented code. |
 | Comment | Contains comments to effectively illustrate a long work flow.                         |
-| Specific Function | Use `wx:for` to dynamic display the catogories of news, such as（`Local`，`Global`，`Finance`，`Entertainment`，`Military`，`Sports` 和 `Other`）。 |
+| Specific Function | Use `wx:for` to dynamic display the catogories of news, such as（`Local`，`Global`，`Finance`，`Entertainment`，`Military`，`Sports` and `Other`）。 |
 
 ---
 ## 概述
