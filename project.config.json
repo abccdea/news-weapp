@@ -8,11 +8,12 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"autoAudits": false
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.1",
-	"appid": "wx8285c221ef74d732",
+	"appid": "wx193954013112c973",
 	"projectname": "news-weapp",
 	"condition": {
 		"search": {
